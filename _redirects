@@ -1,0 +1,3 @@
+# Prepared for Cloudflare Pages / Netlify-style hosts (no-op on GitHub Pages).
+# Canonical host: force www.pmfil.com
+https://pmfil.com/* https://www.pmfil.com/:splat 301

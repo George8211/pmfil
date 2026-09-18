@@ -1,0 +1,8 @@
+# Prepared for Cloudflare Pages / Netlify-style hosts (no-op on GitHub Pages).
+/*
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: strict-origin-when-cross-origin
+/*.html
+  Cache-Control: public, max-age=3600
+/images/*
+  Cache-Control: public, max-age=604800, immutable
